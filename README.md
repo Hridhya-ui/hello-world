@@ -1,2 +1,7 @@
-# hello-world
-just another repository
+#hello-world
+
+Hello everyone!
+I am Hridya Jayakumar
+I love my dad
+
+ 
